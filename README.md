@@ -6,7 +6,7 @@ Sergio Henrique de Oliveira (PO) https://github.com/Sergio-Henrique49 <br>
 Jaqueline Maria França Veloso da Silva (SM) https://github.com/jaquemfvs <br>
 Diego Rafael Moreno Vitvicki (ST) https://github.com/dievit <br>
 Pablo Rafael Rosa da Silva (ST) https://github.com/PabloEscobar9000 <br>
-Bianca (ST) <br>
+Bianca Cepelo da Silva (ST) https://https://github.com/BiaCapelo <br>
 Sebastião Domingues Ferreira Junior (ST) https://github.com/Sebaishhh <br>
 Luiz Eduardo Rosa da Silva (ST) <br>
 Breno (ST) 
