@@ -9,7 +9,7 @@ Pablo Rafael Rosa da Silva (ST) https://github.com/PabloEscobar9000 <br>
 Bianca Cepelo da Silva (ST) https://github.com/BiaCapelo <br>
 Sebastião Domingues Ferreira Junior (ST) https://github.com/Sebaishhh <br>
 Luiz Eduardo Rosa da Silva (ST) <br>
-Breno (ST) 
+Breno Augusto Santos Jesus (ST) https://github.com/brenoasj <br>
 
 Desafio
 
