@@ -20,11 +20,9 @@ Desenvolver  um  sistema  web que  indique  todos  os  processos  e  artefatos  
 
 ## Product Backlog
 
-<h1 align="center"> <img src = "./readme/![Backlog(protótipo)](https://user-images.githubusercontent.com/127496301/227824304-f0c94504-552e-4b08-96ee-4374617e17f8.png)" /></h1> 
+<h1 align="center"> <img src = "./readme/Backlog(protótipo).png" /></h1> 
 
 <br>
-
-
 
 ## Sprints Backlog
 
