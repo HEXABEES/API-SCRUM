@@ -20,7 +20,7 @@ Criação de site de treinamento sobre o Scrum onde nosso "cliente" possa treina
 
 ## Sprints
 
-- SPRINT 1 - 13/03/2023 a 02/04/2023 
+- 1° SPRINT  - 13/03/2023 a 02/04/2023 
 
 ## Product Backlog
 
