@@ -29,10 +29,12 @@ Desenvolver um sistema web que indique todos os processos e artefatos da metodol
 - [x] Framework SCRUM
 - [x] Apresentação e Documentação via Github
 - [x] O sistema web deverá ser intuitivo e não ter poluições de informações.  
+- [ ] 
 
 ## 💠 O Projeto<a id="projeto"></a>
 
 O grupo irá desenvolver um site de treinamento sobre o Scrum, em que nosso "cliente" utilizará tal site para treinar seus colaboradores para que possam aprender e aplicar a Metodologia Ágil em sua empresa.
+
 
 ## ☄️ Metodologia <a id="metodologia"></a>
 
@@ -46,9 +48,11 @@ A metedologia utilizada no desenvolvimento do projeto é o próprio framework SC
 •  Cortes de desperdício, através de um bom planejamento.<br>
 •  Aumento da produtividade da Equipe de forma geral.<br>
 
+
 ## ✨ MVP <a id="mvp"></a>
 
 Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse retornar valor para nosso cliente desde o primeiro momento, sendo já no protótipo um meio para que os colaboradores de nosso cliente sejam introduzidos ao SCRUM e entendessem os motivos para introduzir e utilizar o framework no dia a dia para o trabalho.
+
 
 ## 🌵 Sprints <a id="sprints"></a>
 
@@ -57,6 +61,8 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 - 3º SPRINT  - 24/04/2023 a 14/05/2023 | ([Link da Pasta](Doc/Sprints/Sprint-3)) Status: Em planejanto
 - 4º SPRINT  - 15/05/2023 a 04/06/2023 | ([Link da Pasta](Doc/Sprints/Sprint-4)) Status: Em planejanto
 
+
+
 ## 🔮 Backlog do Produto <a id="backlog"></a>
 
 |                            Tarefa                            |                          Descrição                           |               Histórias de Usuários                | Prioridade | Sprint | Estimativa de Esforço |       Status       |
@@ -64,20 +70,21 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Wireframe do projeto | Visualizar de forma macro como será o esqueleto do site para criação do protótipo | <a href='#us01'>US01</a> | Média | 1 | 4h | :white_check_mark: |
 | Criação de protótipo para o projeto |  Criar um protótipo simples e objetivo para que o cliente visualize o layout do site e a forma como as informações estão distribuidas, para então iniciar o processo de forma mais detalhada | <a href='#us02'>US02</a> | Alta | 1 | 8h | :white_check_mark: |
 | Criação e organização do projeto no Github |  Criação de diretorios específicos para certos arquivos e organização dos mesmos  | <a href='#us03'>US03</a> | Alta | 1 | 4h | :white_check_mark: |
-| Página Home com introdção e motivações para aprender SCRUM |  Criação da página inicial do site | <a href='#us04'>US04</a> | Alta | 2 | 8h | :contruction: |
-| Páginas Desenvolvendo os artefatos do SCRUM |  Criação das páginas de conteúdo do site | <a href='#us05'>US05</a> | Alta | 2 | 16h | :contruction: |
-| Página de Súmario |  Criação de uma página onde o colaborador possa visualizar os tópicos já lidos e as avaliações já feitas | <a href='#us06'>US06</a> | Alta | 2 | 8h | :contruction: |
-| Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | :contruction: |
-| Página de autoavaliação | Criação de formulário de autoavaliação onde o colaborador fará uma autoavaliação dentro dos paramêtros estabelecidos pelo SCRUM | <a href='#us08'>US08</a> | Média | 3 | 4h | :contruction: |
-| Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | :contruction: |
-| Testes do Produto | Testes do produto para identificar possíveis erros e melhorias | <a href='#us10'>US10</a> | Média | 4 | 4h | contruction: |
-| Correção de erros e implementação de ajustes finos |  Correção de erros identificados e últimos ajustes solicitados pelo cliente | <a href='#us11'>US11</a> | Média | 4 | 8h | :contruction: |
-| Manual de utilização do site | Criação de manual para que o cliente entenda melhor o funcionamento do site | <a href='#us12'>US12</a> | Baixa | 4 | 2h | :contruction: |
+| Página Home com introdção e motivações para aprender SCRUM |  Criação da página inicial do site | <a href='#us04'>US04</a> | Alta | 2 | 8h | 🚧 |
+| Páginas Desenvolvendo os artefatos do SCRUM |  Criação das páginas de conteúdo do site | <a href='#us05'>US05</a> | Alta | 2 | 16h | 🚧 |
+| Página de Súmario |  Criação de uma página onde o colaborador possa visualizar os tópicos já lidos e as avaliações já feitas | <a href='#us06'>US06</a> | Alta | 2 | 8h | 🚧 |
+| Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | 🚧 |
+| Página de autoavaliação | Criação de formulário de autoavaliação onde o colaborador fará uma autoavaliação dentro dos paramêtros estabelecidos pelo SCRUM | <a href='#us08'>US08</a> | Média | 3 | 4h | 🚧 |
+| Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | 🚧 |
+| Testes do Produto | Testes do produto para identificar possíveis erros e melhorias | <a href='#us10'>US10</a> | Média | 4 | 4h | 🚧 |
+| Correção de erros e implementação de ajustes finos |  Correção de erros identificados e últimos ajustes solicitados pelo cliente | <a href='#us11'>US11</a> | Média | 4 | 8h | 🚧 |
+| Manual de utilização do site | Criação de manual para que o cliente entenda melhor o funcionamento do site | <a href='#us12'>US12</a> | Baixa | 4 | 2h | 🚧 |
 
 
 <br>
 
-## :book: Histórias de Usuário<a id="historia"></a>
+
+## 📖 Histórias de Usuário<a id="historia"></a>
 
 
 |          ID           |                     História de Usuário                      |
@@ -95,13 +102,16 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | US11<a id='us11'></a> | Eu como desenvolvedor, quero corrigir erros identificados e implementar as melhorias necessárias para finalizar a criação do site |
 | US12<a id='us12'></a> | Eu como "cliente", quero entender o funcionamento do site para instruir meus colaboradores durante seu primeiro contato com o mesmo |
 
+
 ## 🔥 Burndown <a id="burndown"></a>
 
 <h1 align="center"> <img src = "./Doc/Imagens/Burndown_chart.png" /></h1>
 
+
 ## 🗺️ Roadmap <a id="roadmap"></a>
 
 <h1 align="center"> <img src = "./Doc/Imagens/Roadmap.png" /></h1>
+
 
 ## 🏅 Grupo Hexabees <a id="equipe"></a>
 
@@ -114,6 +124,7 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Bianca Cepelo da Silva | (ST) | https://github.com/BiaCapelo | | 
 | Luiz Eduardo Rosa da Silva | (ST) | https://github.com/eduardudu10 | | 
 | Breno Augusto Santos Jesus | (ST) |  https://github.com/brenoasj | | 
+
 
 ## 👨‍🏫 Ponto Focal <a id="ponto"></a>
 
