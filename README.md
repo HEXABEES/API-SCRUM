@@ -2,10 +2,13 @@
 
 <p align="center">
   <a href ="#o-projeto"> Projeto </a>  • 
+  <a href ="metodologia"> Metodologia </a> •
+  <a href ="mvp"> MVP </a> •
   <a href ="#sprints"> Sprints </a>  • 
   <a href ="#product-backlog">Product Backlog </a>  •
-    <a href ="#proposta">Proposta </a>  •
-  <a href ="#equipe"> Equipe </a> 
+  <a href ="#proposta">Proposta </a>  •
+  <a href ="#equipe"> Equipe </a>
+
 </p>
 
 <br>
@@ -17,6 +20,12 @@ Desenvolver  um  sistema  web que  indique  todos  os  processos  e  artefatos  
 ## Proposta
 
 Criação de site de treinamento sobre o Scrum onde nosso "cliente" possa treinar seus colaboradores para que possam aprender e aplicar a Metodologia Ágil em sua empresa.
+
+##  Metodologia <a id="metodologia"></a>
+
+## MVP <a id="mvp"></a>
+
+Nosso "Minimal Viable Product" (MVP) foi definido como algo que já pudesse retornar valor para nosso cliente desde o primeiro momento, sendo já no protótipo um meio para que os colaboradores de nosso cliente sejam introduzidos ao SCRUM e entendessem os motivos para introduzir e utilizar o framework no dia a dia para o trabalho. 
 
 ## Sprints
 
@@ -34,5 +43,5 @@ Jaqueline Maria França Veloso da Silva (SM) https://github.com/jaquemfvs <br>
 Diego Rafael Moreno Vitvicki (ST) https://github.com/dievit <br>
 Pablo Rafael Rosa da Silva (ST) https://github.com/PabloEscobar9000 <br>
 Bianca Cepelo da Silva (ST) https://github.com/BiaCapelo <br>
-Sebastião Domingues Ferreira Junior (ST) https://github.com/Sebaishhh <br>
 Breno Augusto Santos Jesus (ST) https://github.com/brenoasj <br>
+Luiz Eduardo Prado de Moura (ST) https://github.com/eduardudu10 <br>
