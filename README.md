@@ -7,7 +7,6 @@
   <a href ="#mvp"> MVP </a> •
   <a href ="#sprints"> Sprints </a>  • 
   <a href ="#backlog"> Backlog </a>  •
-  <a href ="#burndown"> Burndown </a> •
   <a href ="#roadmap"> Roadmap </a> •
   <a href ="#equipe"> Equipe </a> •
   <a href ="#ponto"> Ponto Focal </a>
@@ -16,6 +15,10 @@
 > Status do Projeto: Em andamento!
 
 <br>
+
+## Protótipo em funcionamento
+
+<h1 align="center"> <img src = "./Doc/Imagens/R.png" /></h1>
  
 ## 📝 Desafio <a id="desafio"></a>
 
@@ -29,7 +32,6 @@ Desenvolver um sistema web que indique todos os processos e artefatos da metodol
 - [x] Framework SCRUM
 - [x] Apresentação e Documentação via Github
 - [x] O sistema web deverá ser intuitivo e não ter poluições de informações.  
-- [ ] 
 
 ## 💠 O Projeto<a id="projeto"></a>
 
@@ -102,10 +104,6 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | US11<a id='us11'></a> | Eu como desenvolvedor, quero corrigir erros identificados e implementar as melhorias necessárias para finalizar a criação do site |
 | US12<a id='us12'></a> | Eu como "cliente", quero entender o funcionamento do site para instruir meus colaboradores durante seu primeiro contato com o mesmo |
 
-
-## 🔥 Burndown <a id="burndown"></a>
-
-<h1 align="center"> <img src = "./Doc/Imagens/Burndown_chart.png" /></h1>
 
 
 ## 🗺️ Roadmap <a id="roadmap"></a>
