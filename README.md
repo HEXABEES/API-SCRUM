@@ -1,5 +1,7 @@
 # API - ADS 1° Semestre - 2023
 
+<h1 align="center"> <img src = "./Doc/Imagens/hexaBees.png" /></h1>
+
 <p align="center">
   <a href ="#desafio"> Desafio </a>  •
   <a href ="#projeto"> Projeto </a>  •
