@@ -20,7 +20,7 @@
 
 ## Protótipo em funcionamento
 
-<h1 align="center"> <img src = "./Doc/Imagens/R.png" /></h1>
+<a href ="https://drive.google.com/file/d/1tqASIEJoMJKnb7fo6FFSHADwaOkhZhyg/view"> LINK do Video </a>
  
 ## 📝 Desafio <a id="desafio"></a>
 
