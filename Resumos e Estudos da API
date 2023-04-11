@@ -1,0 +1,20 @@
+Resumos Artefatos Scrum
+Product Backlog – O Backlog do produto é uma lista de requisitos a ser atendidas no decorrer de todo o projeto aonde é definida a ordem de importancia e 
+seus topicos por toda a equipe scrum, porém apenas o PO pode acrescentar, reorganizar ou retirar tarefas dessa lista. As users stories são muito utilizadas 
+nesse artefato para auxiliar na quantificação de necessidade. É ordenada de forma decrescente, sendo o item de maior importancia para o cliente e para o 
+desenvolvimento do projeto colocado no começo da lista com uma carga de valor maior e os demais sucessivamente. É uma lista dinamica que permite mudanças de
+acordo com os objetivos e exigencias do cliente. 
+Sprint Backlog – São subdivisoes de cada um dos objetivos detalhados no backlog a serem apresentadas ao cliente no decorrer da evolução do projeto, portanto
+cada sprint possui o backlog da sprint bem definida no inicio de cada periodo de tempo e é o que o time de desenvolvimento usa de apoio para se basear em suas
+atividades e entregas. Também sendo os unicos com autonomia para muda-las ou reorganiza-las.
+Definition of Dane(DOD) – A definição de pronto é acertada entre o DT e o PO quando o objetivo principal da sprint é tido como finalizado. É um concenso entre
+o que foi definido pelo time de desenvolvimento e o que o cliente, atraves do product owner, acham imprescindivel de ser entregue até o final de determinada 
+sprint para ela ser considerada como pronta. É Nessa fase que o product increment é apresentado ao cliente, sendo esse um valor utilizavel pelo cliente mesmo
+antes do final do projeto.
+Burndown  – O burndown nada mais é do que formas mais visiveis de todo o desenvolvimento e progresso do time scrum, sendo utilizados roadmaps e graficos para a
+quantificação dos processos feitos e dos que serão realizados, em relação proporcional de horas e dias de trabalho da equipe, para ver se segue de forma linear,
+se teve impecilhos, etc.
+
+
+
+
