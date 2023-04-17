@@ -1,0 +1,42 @@
+O que é Scrum?
+Para um primeiro contato, essa nomenclatura pode parecer difícil e complicada, mas na verdade é bem o oposto. Scrum nada mais é do que uma metodologia ágil de 
+gestão de projetos com foco em otimizar tempo, recursos e custos. Mas antes de aprendermos sobre ele vamos introduzir primeiro o conceito de metodologia ágil. 
+
+# A metodologia ágil é uma abordagem interativa para o desenvolvimento de projetos que se concentra na entrega de valor contínuo ao longo do processo para o cliente.
+Diferentemente do método cascata (waterfall), que tem como foco o planejamento, desenvolvimento e entrega definidos apenas para o final do projeto direto com o
+cliente, o que não abre espaço para mudanças no cronograma, o método ágil é mais flexível e se concentra em entrega de valor contínuo ao longo do processo de 
+desenvolvimento. 
+
+Agora que você já viu sobre as metodologias, vamos para o scrum, um método ágil de planejamento. 
+
+O scrum é utilizado no desenvolvimento de projetos que exigem flexibilidade e adaptação continua. Ele é uma ferramenta que pode trazer diversos benefícios em 
+comparação a outras formas de se conduzir projetos, pois permiti reduzir os riscos de falhas, entrega valor mais rápido e de forma eficiente, e lidar com as
+inevitáveis mudanças de trajeto, transformando-as em vantagem competitiva. Seu uso pode também aumentar a qualidade do produto entregue e melhorar a produtividade 
+das equipes. Ele se baseia na ideia de dividir o trabalho em ciclos curtos, chamadas de sprints, que duram em torno de uma a quatro semanas com o intuito de
+desenvolver um incremento funcional do produto e apresentar ao cliente ao final de cada sprint para aprovação, ou possíveis mudanças que venham a surgir. O Scrum 
+utiliza uma série de eventos (reuniões) para garantir a transparência e a colaboração entre o time de desenvolvimento e o cliente. Esses eventos incluem: 
+
+Sprint Planning: Reunião de planejamento do sprint, onde o time de desenvolvimento e o cliente definem os objetivos do sprint e o que será desenvolvido. 
+
+Daily Scrum: Reunião diária de alinhamento do time de desenvolvimento, onde cada membro reporta o que fez desde a última reunião e o que planeja fazer até a próxima. 
+
+Sprint Review: Reunião de revisão do sprint, onde o time de desenvolvimento apresenta o incremento funcional desenvolvido ao cliente. 
+
+Sprint Retrospective: Reunião de retrospectiva do sprint, onde o time de desenvolvimento discute o que funcionou bem e o que pode ser melhorado no próximo sprint. 
+
+O Scrum também utiliza uma série de artefatos (documentos) para garantir a transparência e a colaboração entre o time de desenvolvimento e o cliente. Esses 
+artefatos incluem: 
+
+Product Backlog: Lista de todas as funcionalidades do produto que devem ser desenvolvidas. 
+
+Sprint Backlog: Lista de todas as funcionalidades do produto que serão desenvolvidas durante o sprint atual. 
+
+Incremento Funcional: Produto ou parte do produto que foi desenvolvido durante o sprint atual. 
+
+O Scrum ajuda a garantir que o produto final atenda às necessidades e expectativas do cliente, ao mesmo tempo em que mantém o time de desenvolvimento focado e 
+motivado pois tem como valores: Foco, Coragem, Sinceridade, Comprometimento e Respeito tudo  isso sobre os pilares da transparência ( todo o projeto, tanto no 
+começo ao final, deve ser visível e acessível a todos do grupo); inspeção ( o processo como um todo deve ser revisado para detectar eventuais problemas e 
+corrigi-los); e adaptação ( que é a habilidade de se ajustar ao cenário atual do projeto e fazer o melhor possível para que saia de acordo com o cronograma 
+já citado). O time scrum se divide em papeis que serão apresentados a seguir. 
+
+ 
