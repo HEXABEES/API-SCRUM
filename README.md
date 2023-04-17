@@ -19,7 +19,7 @@
 <br>
 
 ## Protótipo em funcionamento
-
+<a href ="https://www.figma.com/proto/yqF7J7uYamFOZbklzddYj5/Untitled?page-id=0%3A1&node-id=1-2&viewport=861%2C504%2C0.32&scaling=scale-down&starting-point-node-id=26%3A42">Link do Protótipo(Figma)</a>
 <a href ="https://drive.google.com/file/d/1tqASIEJoMJKnb7fo6FFSHADwaOkhZhyg/view"> LINK do Video </a>
  
 ## 📝 Desafio <a id="desafio"></a>
