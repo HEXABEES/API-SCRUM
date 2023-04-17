@@ -76,7 +76,7 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Criação e organização do projeto no Github |  Criação de diretorios específicos para certos arquivos e organização dos mesmos  | <a href='#us03'>US03</a> | Alta | 1 | 4h | :white_check_mark: |
 | Página Home com introdção e motivações para aprender SCRUM |  Criação da página inicial do site | <a href='#us04'>US04</a> | Alta | 2 | 8h | :white_check_mark: |
 | Páginas Desenvolvendo os artefatos do SCRUM |  Criação das páginas de conteúdo do site | <a href='#us05'>US05</a> | Alta | 2 | 16h | 🚧 |
-| Página de Súmario |  Criação de uma página onde o colaborador possa visualizar os tópicos já lidos e as avaliações já feitas | <a href='#us06'>US06</a> | Alta | 2 | 8h | 🚧 |
+| Barra de navegação |  Criação de uma barra de navegação onde o colaborador possa visualizar os tópicos já lidos ou a serem lidos e as avaliações | <a href='#us06'>US06</a> | Alta | 2 | 8h | 🚧 |
 | Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | 🚧 |
 | Página de autoavaliação | Criação de formulário de autoavaliação onde o colaborador fará uma autoavaliação dentro dos paramêtros estabelecidos pelo SCRUM | <a href='#us08'>US08</a> | Média | 3 | 4h | 🚧 |
 | Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | 🚧 |
