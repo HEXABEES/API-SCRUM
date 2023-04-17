@@ -107,9 +107,12 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 
 
 
-## 🗺️ Roadmap <a id="roadmap"></a>
+## 🗺️ Roadmap e Burndown <a id="roadmap"></a>
 
-<h1 align="center"> <img src = "./Doc/Imagens/Roadmap.png" /></h1>
+<h1 align="center"> <img src = "./Doc/Imagens/Roadmap.png" /></h1> <hr>
+<a href = "https://trello.com/b/nRNaLybq/api-scrum"> Link Burndown (Trello) </a>
+
+
 
 
 ## 🏅 Grupo Hexabees <a id="equipe"></a>
