@@ -1,0 +1,53 @@
+Eventos Scrum 
+
+Scrum possui alguns eventos de duração fixa realizados em intervalos regulares. Cada um destes eventos são oportunidades para inspeção e adaptação. 
+
+Sprint 
+
+Todo o desenvolvimento em Scrum é feito de forma inerativa e incremental –ciclos completos de desenvolvimento de duração fixa onde ao final temos incrementos
+potencialmente entregáveis do produto. Estas iterações são chamadas de Sprints. Cada Sprint tem duração de até um mês, o que permite feedbacks constantes do 
+Product Owner quanto ao produto sendo desenvolvido. Da mesma forma, o Product Owner tem a possibilidade de analisar o que foi produzido e reorganizar o Product
+Backlog caso seja necessário. 
+
+Sprint Planning Meeting 
+
+Ao início de cada uma das Sprints, o Time Scrum se reúne para planejar o que será feito naquela Sprint. Esta reunião chama-se Sprint Planning Meeting (Reunião 
+de Planejamento da Sprint) e tem duração fixa (time-boxed) de até oito horas para uma Sprint de um mês. Para Sprints menores, o tempo é reduzido de forma 
+proporcional. 
+
+Exemplo de uma Release Planning Meeting   
+
+1.Abertura: ScrumMaster revisita o propósito da reunião, sua estrutura, agenda, etc. 
+
+2.Visão do Produto e Roadmap: Product Owner revisa a Visão do Produto com o propósito de trazer todos novamente para o foco e alinhar expectativas. 
+
+3.Status atual do projeto: Product Owner apresenta gráfico se Status Reports onde possam ser visualizados resultado das últimas Sprints e momento atual do projeto. 
+
+4.Meta/tema da Release: Product Owner propõe a meta para o Release. Normalmente esta meta é expressa em objetivo de negócio alinhado à data de entrega. 
+
+5.Estimativa de velocidade: Time estima sua velocidade para esta Release baseando-se no resultado de Sprints anteriores. 
+
+6.Agenda da Release e número de Sprints: Scrum Master facilita um trabalho colaborativo entre Development Team e Product Owner para enxergar Milestones, 
+definir tamanho de Sprints, etc. 
+
+7.Estimativa de itens do Product Backlog: Development Team estima itens do Product Backlog caso estes não estejam estimados. Só deverão ser estimados uma 
+quantidade de itens suficiente para planejar o Release e, talvez, para    deixar uma “sobra”. 
+
+8.Mapear itens nas Sprints do Release: seguindo a priorização do Product Owner, o Development Team irá mapear quais itens “cabem” em quais  Sprints.    
+Como    o    Release    Planning    será    revisto    ao    fim de cada Sprint, não é aconselhado tentar encaixar item a item em cada Sprint. Se você está
+planejando, por exemplo, um Release de cinco Sprints, mapeie itens para as duas primeiras Sprints apenas, e deixe o restante selecionado sem posicionar na 
+Sprint três, quatro ou cinco. 
+
+9.Riscos, dependência e preocupações: de forma colaborativa Development Team, ScrumMaster e Product Owner trabalham com práticas para identificar riscos, 
+dependências, impedimentos arquiteturais, desafios, etc. Caso necessário será elaborado um plano de riscos, impedimentos backlog e/ou um simples plano de ação. 
+
+10.Comprometimento: ScrumMaster provoca Development Team e Product Owner para que haja um comprometimento com esta meta. É importante todos estarem confiantes 
+e entusiasmados com a meta. 
+
+11.Plano de comunicação e logística da Sprint: principalmente em ambientes largos, a comunicação do Release (e consequentemente do projeto) perante a 
+organização não pode falhar. Se necessário montar plano de ação para este trabalho. 
+
+12.Montar gráfico(s): montar Release Burndown e/ou Parking Lot e/ou qualquer gráfico que ajude a comunicar o andamento do Release. 
+
+13.Retrospectiva: Por fim, como de costume em qualquer cerimônia de Scrum, considero uma boa prática ser feita uma Retrospectiva para avaliar pontos positivos e
+de melhoria desta reunião. 
