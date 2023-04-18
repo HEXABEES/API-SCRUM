@@ -10,6 +10,7 @@
   <a href ="#sprints"> Sprints </a>  • 
   <a href ="#backlog"> Backlog </a>  •
   <a href ="#roadmap"> Roadmap </a> •
+  <a href ="historias"> Histórias de usuário </a> •
   <a href ="#equipe"> Equipe </a> •
   <a href ="#ponto"> Ponto Focal </a>
 
@@ -19,8 +20,7 @@
 <br>
 
 ## Protótipo em funcionamento
-<a href ="https://www.figma.com/proto/yqF7J7uYamFOZbklzddYj5/Untitled?page-id=0%3A1&node-id=1-2&viewport=861%2C504%2C0.32&scaling=scale-down&starting-point-node-id=26%3A42">Link do Protótipo(Figma)</a><hr>
-<a href ="https://drive.google.com/file/d/1tqASIEJoMJKnb7fo6FFSHADwaOkhZhyg/view"> LINK do Video </a>
+<a href ="https://www.figma.com/proto/yqF7J7uYamFOZbklzddYj5/Untitled?page-id=0%3A1&node-id=1-2&viewport=861%2C504%2C0.32&scaling=scale-down&starting-point-node-id=26%3A42">Link para acessar o Protótipo (Figma)</a>
  
 ## 📝 Desafio <a id="desafio"></a>
 
@@ -60,8 +60,8 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 
 ## 🌵 Sprints <a id="sprints"></a>
 
-- 1° SPRINT  - 13/03/2023 a 02/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-1)) Status: Em andamento
-- 2º SPRINT  - 03/04/2023 a 23/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-2)) Status: Em planejanto
+- 1° SPRINT  - 13/03/2023 a 02/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-1)) Status: Concluída
+- 2º SPRINT  - 03/04/2023 a 23/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-2)) Status: Em andamento
 - 3º SPRINT  - 24/04/2023 a 14/05/2023 | ([Link da Pasta](Doc/Sprints/Sprint-3)) Status: Em planejanto
 - 4º SPRINT  - 15/05/2023 a 04/06/2023 | ([Link da Pasta](Doc/Sprints/Sprint-4)) Status: Em planejanto
 
@@ -88,7 +88,7 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 <br>
 
 
-## 📖 Histórias de Usuário<a id="historia"></a>
+## 📖 Histórias de Usuário<a id="historias"></a>
 
 
 |          ID           |                     História de Usuário                      |
@@ -108,10 +108,9 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 
 
 
-## 🗺️ Roadmap e Burndown <a id="roadmap"></a>
+## 🗺️ Roadmap <a id="roadmap"></a>
 
 <h1 align="center"> <img src = "./Doc/Imagens/Roadmap.png" /></h1> <hr>
-<a href = "https://trello.com/b/nRNaLybq/api-scrum"> Link Burndown (Trello) </a> <hr>
 
 
 ## 🏅 Grupo Hexabees <a id="equipe"></a>
