@@ -1,0 +1,198 @@
+header{
+    position: fixed;
+    width: 100%;
+    height: 95px;
+    left: 0px;
+    top: 0px;
+    background: #005FA4;
+    z-index: 9;
+}
+
+footer{
+    display: flex;
+    position:absolute;
+    justify-content: center;
+    gap: 5%;
+    width: 100%;
+    left: 0px;
+    bottom: 0px;
+    background: #005FA4;;
+    align-items: center;
+}    
+
+
+body{
+    margin: 0;
+    background-size: 100%;
+    position: -ms-page;
+    background-attachment: fixed;
+}
+
+
+.ul1{
+    list-style: none;
+    padding: 0px 0px 0px 0px;
+    overflow: hidden;
+    transition: all .5s;
+    height: 0px;
+    size: 10px;
+}
+
+
+.nav1{
+    background-color: rgba(0, 95, 164, 1);
+    padding: 0 10px;
+    justify-content: space-between;
+    align-items: left;
+    width: 240px;
+    
+}
+
+h1, p , a {
+    color: white;
+}
+
+.nav1, .ul1{
+    display: flow-root;
+    flex-direction: column;
+    
+}
+
+.lista1{
+    padding: 10px 10px;
+    font-size: 22px;
+
+}
+
+h1{
+    margin: 10px;
+    margin-top: 20px;
+    padding: 0px;
+    font-size: 32px;
+    top: 20px;
+    border: none;
+}
+
+button{ 
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 28px;
+    position: absolute; 
+    left: 35vh;
+    top: 20px;
+}
+
+.lista1:hover, button:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    background-color: rgba(0, 75, 130, 1);
+}
+
+button:focus ~ .ul1{
+    height: 150px;  
+}
+
+@media (max-width: 200px){
+    .nav1, .ul1{
+        flex-direction: column;
+    }
+
+    .ul1{
+        text-align: left;
+        margin: 0;
+        height: 0;
+    }
+    .nav1{
+        padding: 0;
+        align-items: unset;
+    }
+    h1{
+        margin: 0px;
+        font-size: 32px;
+    }
+    button{
+        display: flex;
+    }
+
+    .lista1, .ul1{
+        width: 100%;
+    }
+}
+
+a{
+    padding: 0vh;
+    margin: 3vh;
+    text-decoration: none;
+    cursor: pointer;  
+}
+
+a:hover{
+    opacity: .5;
+}
+
+.p1{
+    margin-top: 10vh;
+    margin-left: 20vh;
+    text-align: justify;
+    width: 52%;
+    text-decoration: none;
+    font-size: 24px;
+    text-indent: 4vh;
+}
+
+.t1{
+    font-size: 40px;
+    margin-top: 20vh;
+    margin-left: 5vh;
+    text-align: left;
+}
+
+.p2{
+    margin-top: 10vh;
+    margin-left: 8vh;
+    text-align: justify;
+    width: 50%;
+    text-decoration: none;
+    font-size: 20px;
+    text-indent: 4vh;
+}
+
+.p3{
+    margin-top: 10vh;
+    margin-left: 8vh;
+    text-align: justify;
+    width: 50%;
+    text-decoration: none;
+    font-size: 20px;
+    text-indent: 4vh;
+    }
+
+.imgartefato{
+    width: 280px;
+    height: 280px;
+    position: absolute;
+    right: 200px;
+    top: 2700px;
+}
+
+.barra, .ul1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.scrumteam{
+    height: 309px;
+    width: 465px;
+    position: absolute;
+    right: 10vh;
+    top: 40vh;
+}
+
+.imgindex{
+    height: 309px;
+    width: 480px;
+    position: absolute;
+    right: 10vh;
+    top: 40vh;
+
+}
