@@ -1,23 +1,33 @@
 {%extends "base.html"%}
 {%block title%}Artefatos{%endblock%}
 {%block content%}
-<h1 class="t1">Artefatos Scrum</h1>
-<p class="p2">O Scrum é composto por cinco diferentes artefatos, que dão transparência ao processo e uma visão do andamento do
-    projeto e das sprint assegurando a entrega do produto. Os artefatos são: Product Backlog; Sprint Backlog; Product
-    Increment; Definition of Done e Burndown Charts.
 
-        O Product Backlog é uma lista de itens de negócios; não-funcionais; arquiteturais; e de infraestrutura ordenada pelo
-    Time Scrum, no qual há tudo que é necessário para o produto e apenas o Project Owner tem o poder de inserir, remover
-    ou reordenar os itens. Geralmente o formato User Stories é utilizado na formatação dos itens, os quais seguem uma
-    hierarquia decrescente, ou seja, os do topo são de máxima importância e detém maior conhecimento. Os que estão
-    abaixo precisam de mais atenção na conclusão e no refinamento, assim eles têm menos importância no projeto. É comum
-    que no decorrer do projeto, alguns itens sejam excluídos, ou até adicionados, pois a projeção é dinâmica e é
-    imprevisível saber se todos os detalhes desejados estão ou não no produto.
+    
+        <h1 class="t1">Artefatos Scrum</h1>
+    
+        <h2 class="subtitulo2">O que são artefatos do Scrum ágil?</h2>
+    
+        <p class="p2">
+        Artefatos de Scrum ágil são informações que as equipes Scrum e as partes interessadas usam para detalhar o produto
+        que está sendo desenvolvido, as ações para a produção dele e as ações realizadas durante o projeto. Esses artefatos
+        oferecem pontos de metadados que informam sobre o desempenho de um sprint. Eles são ferramentas essenciais para
+        todas as equipes Scrum, pois viabilizam os principais atributos do Scrum de transparência, inspeção e adaptação.
+        </p>
+    
+        <h2 class="subtitulo">Exemplos de Product Backlog,<br> Sprint Backlog e Burndown Chart.</h2>
 
-        O Sprint Backlog são itens selecionados e conjugados numa sprint. Por isso, no fim de cada sprint um novo Sprint
-    Backlog é criado. Comumente utiliza-se o formato de Task Board na organização e somente o Time de Desenvolvimento
-    pode alterar a sprint, caso necessitar-se adicionar ou remover alguma tarefa.
-</p>
-
-<img class='imgartefato' src="/static/imagens/artefatos.jpg" alt="artefatos">   
+    <!--<div>
+        <img class='imgartefato' src="/static/imagens/jqimg.png" alt="artefatos">
+    </div>-->
+    <div class="flex-container">
+    <div>
+        <img class="backlog" src="../static/imagens/backlogcanva.png" alt="backlogcanva">
+    </div>
+    <div>
+        <img class="sprintbacklog" src="/static/imagens/sprintbacklogcanva.png" alt="sprintbacklogcanva">
+    </div>
+    <div>
+        <img class="burndownchart" src="/static/imagens/burndowncanva.png" alt="burndownchartcanva">
+    </div>
+</div>
 {%endblock%}
