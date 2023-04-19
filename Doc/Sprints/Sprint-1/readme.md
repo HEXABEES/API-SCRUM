@@ -17,7 +17,7 @@ As tarefas dessa primeira Sprint foram escolhidas e criadas de maneira que pudes
 <br>
 <br>
 
-## Backlog da Sprint <a id="backlog"></a>
+## 🔮 Backlog da Sprint <a id="backlog"></a>
 
 |                            Tarefa                            |                          Descrição                           |               Histórias de Usuários                | Prioridade | Sprint | Estimativa de Esforço |       Status       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------: | :--------: | :----: | :-------------------: | :----------------: |
@@ -38,7 +38,9 @@ As tarefas dessa primeira Sprint foram escolhidas e criadas de maneira que pudes
 
 <br>
 
-## Tarefas<a id="tarefas"></a><br>
+## 🗺️ Roadmap<a id="roadmap"></a>
+
+## 📝 Tarefas<a id="tarefas"></a><br>
 <br>
 
 
