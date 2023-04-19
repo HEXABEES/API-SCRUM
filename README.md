@@ -37,7 +37,7 @@ Desenvolver um sistema web que indique todos os processos e artefatos da metodol
 
 ## 💠 O Projeto<a id="projeto"></a>
 
-O grupo irá desenvolver um site de treinamento sobre o Scrum, em que nosso "cliente" utilizará tal site para treinar seus colaboradores para que possam aprender e aplicar a Metodologia Ágil em sua empresa.
+O grupo irá desenvolver um site de treinamento sobre o Scrum, em que nosso "cliente" utilizará tal site para treinar seus colaboradores para que possam aprender e aplicar a Metodologia Ágil em sua organização.
 
 
 ## ☄️ Metodologia <a id="metodologia"></a>
@@ -55,7 +55,7 @@ A metedologia utilizada no desenvolvimento do projeto é o próprio framework SC
 
 ## ✨ MVP <a id="mvp"></a>
 
-Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse retornar valor para nosso cliente desde o primeiro momento, sendo já no protótipo um meio para que os colaboradores de nosso cliente sejam introduzidos ao SCRUM e entendessem os motivos para introduzir e utilizar o framework no dia a dia para o trabalho.
+Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse retornar valor para nosso cliente desde o primeiro momento, sendo possível já no protótipo navegável visualizar o layout do site e a distribuição das informações na interface gráfica. Evoluindo de acordo com o andamento do projeto, sendo possível obter as informações necessárias para o desenvolvimento da metodologia SCRUM e sua importância e impacto nos processos de desenvolvimento. O produto final será responsivo e intuitivo passando as inforções de forma clara e objetiva
 
 
 ## 🌵 Sprints <a id="sprints"></a>
@@ -74,9 +74,12 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Wireframe do projeto | Visualizar de forma macro como será o esqueleto do site para criação do protótipo | <a href='#us01'>US01</a> | Média | 1 | 4h | :white_check_mark: |
 | Criação de protótipo para o projeto |  Criar um protótipo simples e objetivo para que o cliente visualize o layout do site e a forma como as informações estão distribuidas, para então iniciar o processo de forma mais detalhada | <a href='#us02'>US02</a> | Alta | 1 | 8h | :white_check_mark: |
 | Criação e organização do projeto no Github |  Criação de diretorios específicos para certos arquivos e organização dos mesmos  | <a href='#us03'>US03</a> | Alta | 1 | 4h | :white_check_mark: |
-| Página Home com introdção e motivações para aprender SCRUM |  Criação da página inicial do site | <a href='#us04'>US04</a> | Alta | 2 | 8h | :white_check_mark: |
+| Página Home com introdução e motivações para aprender SCRUM |  Criação da página inicial do site com a introdução ao SCRUM com informações do tipo: o que é, como é e sua origem | <a href='#us04'>US04</a> | Alta | 2 | 8h | :white_check_mark: |
+| Página Desenvolvendo o time SCRUM |  Criação das páginas de conteúdo do site referente ao time SCRUM | <a href='#us14'>US14</a> | Alta | 2 | 10h | 🚧 |
 | Páginas Desenvolvendo os artefatos do SCRUM |  Criação das páginas de conteúdo do site | <a href='#us05'>US05</a> | Alta | 2 | 16h | 🚧 |
-| Barra de navegação |  Criação de uma barra de navegação onde o colaborador possa visualizar os tópicos já lidos ou a serem lidos e as avaliações | <a href='#us06'>US06</a> | Alta | 2 | 8h | 🚧 |
+| Barra de navegação |  Criação de uma barra de navegação onde o colaborador poderá visualizar os tópicos principais do site | <a href='#us06'>US06</a> | Alta | 2 | 10h | 🚧 |
+| Responsividade dos botões | Verificação da responsividade e intuitividade dos botões do site implementados até o momento | <a href='#us15'>US15</a> | Alta | 2 | 10h | 🚧 |
+| Páginas Desenvolvendo os eventos do SCRUM |  Criação das páginas de conteúdo do site referente aos eventos do SCRUM | <a href='#us013'>US13</a> | Alta | 3 | 16h | 🚧 |
 | Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | 🚧 |
 | Página de autoavaliação | Criação de formulário de autoavaliação onde o colaborador fará uma autoavaliação dentro dos paramêtros estabelecidos pelo SCRUM | <a href='#us08'>US08</a> | Média | 3 | 4h | 🚧 |
 | Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | 🚧 |
@@ -105,6 +108,8 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | US10<a id='us10'></a> | Eu como desenvolvedor, quero testar o produto para identificar possíveis erros e melhorias |
 | US11<a id='us11'></a> | Eu como desenvolvedor, quero corrigir erros identificados e implementar as melhorias necessárias para finalizar a criação do site |
 | US12<a id='us12'></a> | Eu como "cliente", quero entender o funcionamento do site para instruir meus colaboradores durante seu primeiro contato com o mesmo |
+| US14<a id='us14'></a> | Eu como colaborador, quero conhecer o time SCRUM para entender suas funções e papéis dentro da metodologia |
+| US15<a id='us15'></a> | Eu como Desenvolvedor, quero verificar a responsividade e intuitividade dos botões para identificar possiveis erros e melhorias na interface gráfica do site |
 
 
 
