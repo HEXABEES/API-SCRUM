@@ -45,6 +45,7 @@ As tarefas para a segunda Sprint foram elaboradas de forma que se pudesse visual
 <br>
 
 ## 🗺️ Roadmap<a id="roadmap"></a>
+<h1 align="center"> <img src = "./Doc/Imagens/Roadmap1.png" /></h1> <hr>
 
 <br>
 
