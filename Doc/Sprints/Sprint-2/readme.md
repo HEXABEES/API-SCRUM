@@ -73,3 +73,4 @@ A barra de navegação vai permitir ao usuário voltar a tópicos anteriores ou 
 
 Conferir a responsividade do site nesse momento do projeto nos permitiu verificar sua intuitividade e desenvolver novas tarefas para melhorar a interação do usuário com o site.
 
+<img src="../Sprint-1/siteapi.gif">
