@@ -61,8 +61,8 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 ## 🌵 Sprints <a id="sprints"></a>
 
 - 1° SPRINT  - 13/03/2023 a 02/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-1)) Status: Concluída
-- 2º SPRINT  - 03/04/2023 a 23/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-2)) Status: Em andamento
-- 3º SPRINT  - 24/04/2023 a 14/05/2023 | ([Link da Pasta](Doc/Sprints/Sprint-3)) Status: Em planejanto
+- 2º SPRINT  - 03/04/2023 a 23/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-2)) Status: Concluída
+- 3º SPRINT  - 24/04/2023 a 14/05/2023 | ([Link da Pasta](Doc/Sprints/Sprint-3)) Status: Em andamento
 - 4º SPRINT  - 15/05/2023 a 04/06/2023 | ([Link da Pasta](Doc/Sprints/Sprint-4)) Status: Em planejanto
 
 
@@ -75,15 +75,18 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Criação de protótipo para o projeto |  Criar um protótipo simples e objetivo para que o cliente visualize o layout do site e a forma como as informações estão distribuidas, para então iniciar o processo de forma mais detalhada | <a href='#us02'>US02</a> | Alta | 1 | 8h | :white_check_mark: |
 | Criação e organização do projeto no Github |  Criação de diretorios específicos para certos arquivos e organização dos mesmos  | <a href='#us03'>US03</a> | Alta | 1 | 4h | :white_check_mark: |
 | Página Home com introdução e motivações para aprender SCRUM |  Criação da página inicial do site com a introdução ao SCRUM com informações do tipo: o que é, como é e sua origem | <a href='#us04'>US04</a> | Alta | 2 | 8h | :white_check_mark: |
-| Página Desenvolvendo o time SCRUM |  Criação das páginas de conteúdo do site referente ao time SCRUM | <a href='#us14'>US14</a> | Alta | 2 | 10h | 🚧 |
-| Páginas Desenvolvendo os artefatos do SCRUM |  Criação das páginas de conteúdo do site | <a href='#us05'>US05</a> | Alta | 2 | 16h | 🚧 |
-| Barra de navegação |  Criação de uma barra de navegação onde o colaborador poderá visualizar os tópicos principais do site | <a href='#us06'>US06</a> | Alta | 2 | 10h | 🚧 |
+| Página Desenvolvendo o time SCRUM |  Criação das páginas de conteúdo do site referente ao time SCRUM | <a href='#us14'>US14</a> | Alta | 2 | 10h | :white_check_mark: |
+| Páginas Desenvolvendo os artefatos do SCRUM |  Criação das páginas de conteúdo do site | <a href='#us05'>US05</a> | Alta | 2 | 16h | :white_check_mark: |
+| Barra de navegação |  Criação de uma barra de navegação onde o colaborador poderá visualizar os tópicos principais do site | <a href='#us06'>US06</a> | Alta | 2 | 10h | :white_check_mark: |
 | Responsividade dos botões | Verificação da responsividade e intuitividade dos botões do site implementados até o momento | <a href='#us15'>US15</a> | Alta | 2 | 10h | 🚧 |
+| Formulários com exemplos dos artefatos do SCRUM | Criação de 2 formulários de exemplo para cada artefato da metodologia para o usuário poder baixar | <a href="#us18">US18 | Média | 3 | 8h | 🚧 |
 | Páginas Desenvolvendo os eventos do SCRUM |  Criação das páginas de conteúdo do site referente aos eventos do SCRUM | <a href='#us013'>US13</a> | Alta | 3 | 16h | 🚧 |
 | Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | 🚧 |
 | Página de autoavaliação | Criação de formulário de autoavaliação onde o colaborador fará uma autoavaliação dentro dos paramêtros estabelecidos pelo SCRUM | <a href='#us08'>US08</a> | Média | 3 | 4h | 🚧 |
 | Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | 🚧 |
-| Testes do Produto | Testes do produto para identificar possíveis erros e melhorias | <a href='#us10'>US10</a> | Média | 4 | 4h | 🚧 |
+| Página Quem somos e contatos | Criação de uma página para reforçar a missão, valores e visão da organização | <a href='#us16'>US16</a> | Baixa | 4 | 8h | 🚧 |
+| Página cases de sucesso | Criação de uma página com exemplos práticos de cases de sucesso e resultados da aplicação do SCRUM em comparação com a metodologia cascata | <a href='#us17'>US17</a> | Baixa | 3 | 8h | 🚧 |
+| Testes do Produto | Testes do produto para identificar possíveis erros e melhorias | <a href='#us10'>US10</a> | Média | 4 | 2h | 🚧 |
 | Correção de erros e implementação de ajustes finos |  Correção de erros identificados e últimos ajustes solicitados pelo cliente | <a href='#us11'>US11</a> | Média | 4 | 8h | 🚧 |
 | Manual de utilização do site | Criação de manual para que o cliente entenda melhor o funcionamento do site | <a href='#us12'>US12</a> | Baixa | 4 | 2h | 🚧 |
 
@@ -110,12 +113,15 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | US12<a id='us12'></a> | Eu como "cliente", quero entender o funcionamento do site para instruir meus colaboradores durante seu primeiro contato com o mesmo |
 | US14<a id='us14'></a> | Eu como colaborador, quero conhecer o time SCRUM para entender suas funções e papéis dentro da metodologia |
 | US15<a id='us15'></a> | Eu como Desenvolvedor, quero verificar a responsividade e intuitividade dos botões para identificar possiveis erros e melhorias na interface gráfica do site |
+| US16<a id='us16'></a> | Eu como colaborador, quero visualizar informações importantes sobre os objetivos da organização para entender e me alinhar as decisões, princípios e objetivos da mesma |
+| US17<a id='us17'></a> | Eu como colaborador, quero ver exemplos práticos e resultados da metodologia para entender a importância da implementação do método ágil e seu impacto na melhoria dos processos |
+| US18<a id='us18'></a> | Eu como colaborador, quero modelos dos artefatos do SCRUM para desenvolver meus projetos utilizando tais modelos |
 
 
 
 ## 🗺️ Roadmap <a id="roadmap"></a>
 
-<h1 align="center"> <img src = "./Doc/Imagens/Roadmap.png" /></h1> <hr>
+<h1 align="center"> <img src = "./Doc/Imagens/ROADMAP1.png" /></h1> <hr>
 
 
 ## 🏅 Grupo Hexabees <a id="equipe"></a>
