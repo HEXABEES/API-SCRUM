@@ -7,7 +7,7 @@ def index():
     return render_template('index.html')
 
 @app.route('/artefatos_scrum')
-def artefatos():
+def artefatos_scrum():
     return render_template('artefatos.html')
 
 @app.route('/time_scrum')
@@ -29,6 +29,10 @@ def spbacklog():
 @app.route('/burndown')
 def burndown():
     return render_template('burndown.html')
+
+@app.route('/quest')
+def quest():
+    return render_template('quest.html')
 
 if __name__=='__main__':
     app.run(debug=True, use_debugger=True, use_reloader=True)
