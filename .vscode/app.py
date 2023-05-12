@@ -62,5 +62,11 @@ def incremento_video():
 def eventosvideo():
     return render_template('eventosvideo.html')
 
+@app.route('/cases')
+def cases():
+    return render_template('cases.html')
+
+
+
 if __name__=='__main__':
     app.run(debug=True, use_debugger=True, use_reloader=True)
