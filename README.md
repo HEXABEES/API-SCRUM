@@ -82,7 +82,6 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Formulários com exemplos dos artefatos do SCRUM | Criação de 2 formulários de exemplo para cada artefato da metodologia para o usuário poder baixar | <a href="#us18">US18 | Média | 3 | 8h | 🚧 |
 | Páginas Desenvolvendo os eventos do SCRUM |  Criação das páginas de conteúdo do site referente aos eventos do SCRUM | <a href='#us013'>US13</a> | Alta | 3 | 16h | 🚧 |
 | Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | 🚧 |
-| Página de autoavaliação | Criação de formulário de autoavaliação onde o colaborador fará uma autoavaliação dentro dos paramêtros estabelecidos pelo SCRUM | <a href='#us08'>US08</a> | Média | 3 | 4h | 🚧 |
 | Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | 🚧 |
 | Página Quem somos e contatos | Criação de uma página para reforçar a missão, valores e visão da organização | <a href='#us16'>US16</a> | Baixa | 4 | 8h | 🚧 |
 | Página cases de sucesso | Criação de uma página com exemplos práticos de cases de sucesso e resultados da aplicação do SCRUM em comparação com a metodologia cascata | <a href='#us17'>US17</a> | Baixa | 3 | 8h | 🚧 |
@@ -106,7 +105,6 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | US05<a id='us05'></a> | Eu como colaborador, quero me apronfudar no método ágil para trabalhar de forma alinhada aos objetivos da minha organização |
 | US06<a id='us06'></a> | Eu como colaborador, quero ver todos os tópicos e avaliações do site caso queira acessar novamente um determinado conteúdo |
 | US07<a id='us07'></a> | Eu como "cliente", quero avaliar o quando meu colaborador está aprendendo sobre SCRUM para medir  seu conhecimento sobre o curso |
-| US08<a id='us08'></a> | Eu como "cliente", quero que meu colaborador se autoavalie para saber como ele vê seu próprio trabalho dentro da empresa |
 | US09<a id='us09'></a> | Eu como colaborador, quero aprender o que são Soft e aprender a desenvolvelas para melhorar meu desempenho como prestador de serviço |
 | US10<a id='us10'></a> | Eu como desenvolvedor, quero testar o produto para identificar possíveis erros e melhorias |
 | US11<a id='us11'></a> | Eu como desenvolvedor, quero corrigir erros identificados e implementar as melhorias necessárias para finalizar a criação do site |
@@ -132,8 +130,7 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Jaqueline Maria França Veloso da Silva | (SM) | https://github.com/jaquemfvs | | 
 | Diego Rafael Moreno Vitvicki | (ST) | https://github.com/dievit | | 
 | Pablo Rafael Rosa da Silva | (ST) | https://github.com/PabloEscobar9000 | | 
-| Bianca Cepelo da Silva | (ST) | https://github.com/BiaCapelo | | 
-| Luiz Eduardo Rosa da Silva | (ST) | https://github.com/eduardudu10 | | 
+| Bianca Cepelo da Silva | (ST) | https://github.com/BiaCapelo | |  
 | Breno Augusto Santos Jesus | (ST) |  https://github.com/brenoasj | | 
 
 
