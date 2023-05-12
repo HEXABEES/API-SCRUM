@@ -1,21 +1,30 @@
 header{
     position: fixed;
     width: 100%;
-    height: 95px;
+    height: 5vh;
     left: 0px;
     top: 0px;
     background: rgba(172, 160, 129, 1);
     z-index: 7;
-    opacity: 100;
+    
 }
 
 .logotipo{
     position: fixed;
-    width: 80px;
-    height: 80px;
+    width: 54px;
+    height: 8   0px;
     top: 1vh;
-    right:5vh;
+    right:3vh;
     z-index: 8;
+}
+
+.barra{
+position: absolute;
+margin-top: -1vh;
+padding-bottom: 0;
+font-size: 22px;
+
+
 }
 
 footer{
@@ -39,16 +48,19 @@ body{
     background-attachment: fixed;
     overflow-y: auto;
     overflow-x: hidden;
+    margin-bottom: 10vh;
 }
 
 
 .ul1{
+    margin-top: 7vh;
     list-style: none;
-    padding: 0px 0px 0px 0px;
+    padding: 0px;
     overflow: hidden;
     transition: all .5s;
     height: 0px;
-    size: 10px;
+    size: 8px;
+    padding-top: 2vh;
 }
 
 .ul2{
@@ -56,9 +68,6 @@ body{
     text-align: left;
 }
 
-.pagename{
-
-}
 
 .nav1{
     background-color: rgba(172, 160, 129, 1);
@@ -86,7 +95,7 @@ h1, p , a {
 }
 
 .lista1{
-    padding: 10px 10px;
+    padding: 10px;
     font-size: 20px;
         
 }
@@ -104,15 +113,15 @@ h1{
 
 }
 
-button{ 
+/* button{ 
     background-color: transparent;
     border: none;
     color: black;
-    font-size: 28px;
+    font-size: 18px;
     position: absolute; 
     left: 35vh;
-    top: 24px;
-}
+    top: 3vh;
+} */
 
 .lista1:hover, button:hover{
     cursor: pointer;
@@ -120,10 +129,10 @@ button{
     background-color: rgb(85, 78, 60)
 }
 
-button:focus ~ .ul1{
-    height: 400px;  
+/* button:focus ~ .ul1{
+    height: 61vh;  
 }
-
+ */
 @media (max-width: 200px){
     .nav1, .ul1{
         flex-direction: column;
@@ -218,13 +227,13 @@ a:hover{
 
 /* TEXTOS DO TIME SCRUM*/
 .texto01, .texto1, .texto2, .texto3, .texto4{
-    font-size: 22px;
+    font-size: 20px;
     font-family: 'Segoe UI';
-    width: 60%;
+    width: 100%;
     text-align: justify;
     color: black;
     line-height: 40px;
-    padding: 20%;
+    padding: 10%;
     padding-top: 2%;
     padding-bottom: 2%;
 }
@@ -242,6 +251,7 @@ a:hover{
     display: block;
     width: 100%;
     margin-right: 25vh;
+    
 }
 
 
@@ -312,7 +322,7 @@ a:hover{
     max-width: 100%;
     max-height: 100%;
     padding-top: 5vh;
-    padding-bottom: 5vh;
+    margin-top: 8%;
 }
 
 .ytvideo3{
@@ -378,6 +388,7 @@ a:hover{
     text-align: center;
     position: relative;
     margin-left: 12%;
+    background-color: none;
  }
 
 
@@ -394,4 +405,67 @@ a:hover{
     text-decoration: none;
     font-family: 'Segoe UI';
 }
+
+.quest{
+    text-align: left;
+    font-family: 'Segoe UI';
+}
+
+
+
+.flex-container3{
+    display: flex;
+    font-family: 'Segoe UI';
+    flex-wrap: wrap;
+    align-items: left;
+    flex-direction: column;
+    text-align: justify;
+    margin-left: 5vh;
+    width: 90%;
+}
+
+.enviar{
+    font-family: 'Segoe UI';
+
+    font-size: 26px;
+    cursor: pointer;
+    text-decoration: none;
+    margin-bottom: 4vh;
+    text-align: center;
+    position: static;
+ }
+
+ .listaeventos{
+    text-align: left;
+    width: 80%;
+ }
+
+ .aviso {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: #f8d7da;
+	color: #721c24;
+	padding: 10px;
+	box-sizing: border-box;
+	display: none;
+}
+
+.fechar {
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	cursor: pointer;
+}
+
+  
+  
+  .botao {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
   

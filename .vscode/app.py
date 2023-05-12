@@ -50,5 +50,17 @@ def scrum_cases():
 def softskills():
     return render_template('softskills.html')
 
+@app.route('/scrumvideo')
+def scrum_video():
+    return render_template('scrumvideo.html')
+
+@app.route('/incrementovideo')
+def incremento_video():
+    return render_template('incrementovideo.html')
+
+@app.route('/eventosvideo')
+def eventosvideo():
+    return render_template('eventosvideo.html')
+
 if __name__=='__main__':
     app.run(debug=True, use_debugger=True, use_reloader=True)

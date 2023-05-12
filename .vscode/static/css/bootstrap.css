@@ -1,0 +1,28 @@
+.navbar-nav .nav-link {
+    color: #000000;
+}
+
+
+
+.dropdown-item:hover, .dropdown-item{
+    margin-left: 0px;
+    padding: auto;
+}
+
+.text-center{
+    align-items: center;
+}
+
+
+
+.navbar{
+    background-color: rgba(172, 160, 129, 1) !important; /* Substitua #000 pela cor desejada */
+}
+
+.navbar-brand, .navbar-text, .dropdown-item {
+  color: #000000; /* Substitua #fff pela cor desejada */
+}
+
+.dropdown-menu-dark{
+    background-color: rgba(172, 160, 129, 1)
+}
