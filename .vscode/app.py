@@ -34,9 +34,17 @@ def burndown():
 def artefatos_download():
     return render_template('artefatosdownload.html')
 
-@app.route('/avaliacao')
-def avaliacao():
-    return render_template('avaliacao.html')
+@app.route('/quest-artefatos')
+def quest_artefatos():
+    return render_template('quest-artefatos.html')
+
+@app.route('/quest-eventos')
+def quest_eventos():
+    return render_template('quest-eventos.html')
+
+@app.route('/quest-final')
+def quest_final():
+    return render_template('quest-final.html')    
 
 @app.route('/eventos_scrum')
 def eventos_scrum():
@@ -61,6 +69,42 @@ def incremento_video():
 @app.route('/eventosvideo')
 def eventosvideo():
     return render_template('eventosvideo.html')
+
+@app.route('/scrumcases_lego')
+def scrum_cases_lego():
+    return render_template('scrumcases_lego.html')
+
+@app.route('/scrumcases_spotify')
+def scrum_cases_spotify():
+    return render_template('scrumcases_spotify.html')
+
+@app.route('/scrumcases_microsoft')
+def scrum_cases_microsoft():
+    return render_template('scrumcases_microsoft.html')
+
+@app.route('/scrumcases_google')
+def scrum_cases_google():
+    return render_template('scrumcases_google.html')
+
+@app.route('/scrumcases_ibm')
+def scrum_cases_ibm():
+    return render_template('scrumcases_ibm.html')
+
+@app.route('/scrumcases_amazon')
+def scrum_cases_amazon():
+    return render_template('scrumcases_amazon.html')
+
+@app.route('/video_scrum_master')
+def video_master():
+    return render_template('video-master.html')
+
+@app.route('/video_product_owner')
+def video_po():
+    return render_template('video-po.html')
+
+@app.route('/video_time_scrum')
+def video_time_scrum():
+    return render_template('video-timescrum.html')
 
 if __name__=='__main__':
     app.run(debug=True, use_debugger=True, use_reloader=True)
