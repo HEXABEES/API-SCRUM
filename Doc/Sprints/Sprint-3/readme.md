@@ -40,6 +40,7 @@ As tarefas para a terceira Sprint foram elaboradas de maneira que se pudesse fin
 <br>
 
 ## 🗺️ Roadmap<a id="roadmap"></a>
+  <h1 align="center"> <img src = "../../Imagens/roadmap2.png" /></h1> <hr>
 
 <br>
 
