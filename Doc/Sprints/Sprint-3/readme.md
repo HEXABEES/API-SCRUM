@@ -56,3 +56,5 @@ As tarefas para a terceira Sprint foram elaboradas de maneira que se pudesse fin
 4. A página sobre Softskills, busca mostrar ao usuário a importância de identificar suas características relacionadas as suas habilidades comportamentais, e a importância de desenvolvê-las para seu crescimento profissional. Exemplificando 7 das Softskills mais importântes quando se esta trabalhando em equipe para um colaborador.
 
 5. A página de cases de sucesso, busca mostrar ao usário exemplos reais da produtividade e entrega de resultados em empresas quue utilizam o método SCRUM como framework de trabalho.
+<br>
+<h1 align="center"> <img src = "../../Imagens/siteapisprint3.gif" /></h1> 
