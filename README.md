@@ -87,7 +87,6 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Página cases de sucesso | Criação de página com exemplos práticos de cases de sucesso e resultados da aplicação do SCRUM | <a href='#us17'>US17</a> | Baixa | 3 | 8h | 🚧 |
 | Testes do Produto | Testes do produto para identificar possíveis erros e melhorias | <a href='#us10'>US10</a> | Média | 4 | 2h | 🚧 |
 | Correção de erros e implementação de ajustes finos |  Correção de erros identificados e últimos ajustes solicitados pelo cliente | <a href='#us11'>US11</a> | Média | 4 | 8h | 🚧 |
-| Manual de utilização do site | Criação de manual para que o cliente entenda melhor o funcionamento do site | <a href='#us12'>US12</a> | Baixa | 4 | 2h | 🚧 |
 
 
 <br>
