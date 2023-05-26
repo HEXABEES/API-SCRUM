@@ -18,11 +18,11 @@ As tarefas para a terceira Sprint foram elaboradas de maneira que se pudesse fin
 
 |                            Tarefa                            |                          Descrição                           |               Histórias de Usuários                | Prioridade | Sprint | Estimativa de Esforço |       Status       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------: | :--------: | :----: | :-------------------: | :----------------: |
-| Páginas Desenvolvendo os eventos do SCRUM |  Criação das páginas de conteúdo do site referente aos eventos do SCRUM | <a href='#us013'>US13</a> | Alta | 3 | 16h | 🚧 |
-| Formulários com exemplos dos artefatos do SCRUM | Criação de 2 formulários de exemplo para cada artefato da metodologia para o usuário poder baixar | <a href='#us18'>US18</a> | Média | 3 | 8h | 🚧 |
-| Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Alta | 3 | 8h | 🚧 |
-| Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | 🚧 |
-| Página cases de sucesso | Criação de uma página com exemplos práticos de cases de sucesso e resultados da aplicação do SCRUM em comparação com a metodologia cascata | <a href='#us17'>US17</a> | Baixa | 3 | 8h | 🚧 |
+| Páginas Desenvolvendo os eventos do SCRUM |  Criação das páginas de conteúdo do site referente aos eventos do SCRUM | <a href='#us013'>US13</a> | Alta | 3 | 16h | :white_check_mark: |
+| Formulários com exemplos dos artefatos do SCRUM | Criação de 2 formulários de exemplo para cada artefato da metodologia para o usuário poder baixar | <a href='#us18'>US18</a> | Média | 3 | 8h | :white_check_mark: |
+| Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Alta | 3 | 8h | :white_check_mark: |
+| Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | :white_check_mark: |
+| Página cases de sucesso | Criação de uma página com exemplos práticos de cases de sucesso e resultados da aplicação do SCRUM em comparação com a metodologia cascata | <a href='#us17'>US17</a> | Baixa | 3 | 8h | :white_check_mark: |
 
 <br>
 
