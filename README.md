@@ -78,13 +78,13 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Página Desenvolvendo o time SCRUM |  Criação das páginas de conteúdo do site referente ao time SCRUM | <a href='#us14'>US14</a> | Alta | 2 | 10h | :white_check_mark: |
 | Páginas Desenvolvendo os artefatos do SCRUM |  Criação das páginas de conteúdo do site | <a href='#us05'>US05</a> | Alta | 2 | 16h | :white_check_mark: |
 | Barra de navegação |  Criação de uma barra de navegação onde o colaborador poderá visualizar os tópicos principais do site | <a href='#us06'>US06</a> | Alta | 2 | 10h | :white_check_mark: |
-| Responsividade dos botões | Verificação da responsividade e intuitividade dos botões do site implementados até o momento | <a href='#us15'>US15</a> | Alta | 2 | 10h | 🚧 |
-| Formulários com exemplos dos artefatos do SCRUM | Criação de formulário de exemplo para cada artefato da metodologia para o usuário poder baixar | <a href="#us18">US18 | Média | 3 | 8h | 🚧 |
-| Páginas Desenvolvendo os eventos do SCRUM |  Criação das páginas de conteúdo do site referente aos eventos do SCRUM | <a href='#us013'>US13</a> | Alta | 3 | 16h | 🚧 |
-| Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | 🚧 |
-| Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | 🚧 |
-| Página Quem somos e contatos | Criação de página para reforçar a missão, valores e visão da organização | <a href='#us16'>US16</a> | Baixa | 4 | 8h | 🚧 |
-| Página cases de sucesso | Criação de página com exemplos práticos de cases de sucesso e resultados da aplicação do SCRUM | <a href='#us17'>US17</a> | Baixa | 3 | 8h | 🚧 |
+| Responsividade dos botões | Verificação da responsividade e intuitividade dos botões do site implementados até o momento | <a href='#us15'>US15</a> | Alta | 2 | 10h | :white_check_mark: |
+| Formulários com exemplos dos artefatos do SCRUM | Criação de formulário de exemplo para cada artefato da metodologia para o usuário poder baixar | <a href="#us18">US18 | Média | 3 | 8h | :white_check_mark: |
+| Páginas Desenvolvendo os eventos do SCRUM |  Criação das páginas de conteúdo do site referente aos eventos do SCRUM | <a href='#us013'>US13</a> | Alta | 3 | 16h | :white_check_mark: |
+| Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | :white_check_mark: |
+| Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | :white_check_mark: |
+| Página Quem somos e contatos | Criação de página para reforçar a missão, valores e visão da organização | <a href='#us16'>US16</a> | Baixa | 4 | 8h | :white_check_mark: |
+| Página cases de sucesso | Criação de página com exemplos práticos de cases de sucesso e resultados da aplicação do SCRUM | <a href='#us17'>US17</a> | Baixa | 3 | 8h | :white_check_mark: |
 | Testes do Produto | Testes do produto para identificar possíveis erros e melhorias | <a href='#us10'>US10</a> | Média | 4 | 2h | 🚧 |
 | Correção de erros e implementação de ajustes finos |  Correção de erros identificados e últimos ajustes solicitados pelo cliente | <a href='#us11'>US11</a> | Média | 4 | 8h | 🚧 |
 
