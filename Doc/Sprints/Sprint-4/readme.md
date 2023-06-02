@@ -38,8 +38,7 @@
 <br>
 
 ## 📝 Tarefas<a id="tarefas"></a><br>
-<br>
-  
+<br> 
 1. Os testes serão realizados para que possamos verificar alguma falha na performace do site.
 
 2. Incluir conteúdo nas páginas de desenvolvimento dos eventos do SCRUM para demonstrar a importância dos mesmos e como sua aplicação é feita. Finalizando a implementação do conteúdo do projeto.
@@ -47,4 +46,4 @@
 3. As correções de erros e implementação de ajustes finos buscam corrigir os ultimos ajustes solicitados pelo cliente.
 
 <br>
- 
+<h1 align="center"> <img src = "../../Imagens/sitesprint4.gif" /></h1> 
