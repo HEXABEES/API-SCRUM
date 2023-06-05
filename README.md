@@ -62,8 +62,8 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 
 - 1° SPRINT  - 13/03/2023 a 02/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-1)) Status: Concluída
 - 2º SPRINT  - 03/04/2023 a 23/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-2)) Status: Concluída
-- 3º SPRINT  - 24/04/2023 a 14/05/2023 | ([Link da Pasta](Doc/Sprints/Sprint-3)) Status: Concluida
-- 4º SPRINT  - 15/05/2023 a 04/06/2023 | ([Link da Pasta](Doc/Sprints/Sprint-4)) Status: Em andamento
+- 3º SPRINT  - 24/04/2023 a 14/05/2023 | ([Link da Pasta](Doc/Sprints/Sprint-3)) Status: Concluída
+- 4º SPRINT  - 15/05/2023 a 04/06/2023 | ([Link da Pasta](Doc/Sprints/Sprint-4)) Status: Concluída
 
 
 
