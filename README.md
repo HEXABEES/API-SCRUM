@@ -62,8 +62,8 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 
 - 1° SPRINT  - 13/03/2023 a 02/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-1)) Status: Concluída
 - 2º SPRINT  - 03/04/2023 a 23/04/2023 | ([Link da Pasta](Doc/Sprints/Sprint-2)) Status: Concluída
-- 3º SPRINT  - 24/04/2023 a 14/05/2023 | ([Link da Pasta](Doc/Sprints/Sprint-3)) Status: Concluida
-- 4º SPRINT  - 15/05/2023 a 04/06/2023 | ([Link da Pasta](Doc/Sprints/Sprint-4)) Status: Em andamento
+- 3º SPRINT  - 24/04/2023 a 14/05/2023 | ([Link da Pasta](Doc/Sprints/Sprint-3)) Status: Concluída
+- 4º SPRINT  - 15/05/2023 a 04/06/2023 | ([Link da Pasta](Doc/Sprints/Sprint-4)) Status: Concluída
 
 
 
@@ -83,7 +83,6 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 | Páginas Desenvolvendo os eventos do SCRUM |  Criação das páginas de conteúdo do site referente aos eventos do SCRUM | <a href='#us013'>US13</a> | Alta | 3 | 16h | :white_check_mark: |
 | Páginas de avaliação do conteúdo | Criação de formulário de avaliação para avaliar o colaborador sobre o conteúdo do site | <a href='#us07'>US07</a> | Média | 3 | 4h | :white_check_mark: |
 | Página sobre Soft skills | Criação de página sobre a importância de Soft skills para o profissional de TI | <a href='#us09'>US09</a> | Baixa | 3 | 4h | :white_check_mark: |
-| Página Quem somos e contatos | Criação de página para reforçar a missão, valores e visão da organização | <a href='#us16'>US16</a> | Baixa | 4 | 8h | :white_check_mark: |
 | Página cases de sucesso | Criação de página com exemplos práticos de cases de sucesso e resultados da aplicação do SCRUM | <a href='#us17'>US17</a> | Baixa | 3 | 8h | :white_check_mark: |
 | Testes do Produto | Testes do produto para identificar possíveis erros e melhorias | <a href='#us10'>US10</a> | Média | 4 | 2h | 🚧 |
 | Correção de erros e implementação de ajustes finos |  Correção de erros identificados e últimos ajustes solicitados pelo cliente | <a href='#us11'>US11</a> | Média | 4 | 8h | 🚧 |
@@ -118,7 +117,7 @@ Nosso "Mínimo produto viável" (MVP) é definido como algo que já pudesse reto
 
 ## 🗺️ Roadmap <a id="roadmap"></a>
 
-<h1 align="center"> <img src = "./Doc/Imagens/ROADMAP1.png" /></h1> <hr>
+<h1 align="center"> <img src = "./Doc/Imagens/roadmap3.png" /></h1> <hr>
 
 
 ## 🏅 Grupo Hexabees <a id="equipe"></a>
